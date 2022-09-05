@@ -19,3 +19,25 @@
 * JavaScript (Fundamentals, DOM)
 * Figma
 * OS (Windows, Arch)
+
+## Education & Experience
+
+* #### Moscow State Pedagogical University
+	* Bachelor of Laws, *ongoing*
+* #### Occupation
+	* Entrepreneur
+
+## Code Example
+> [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
+> ```
+String.prototype.toJadenCase = function () {
+  let arr = this.split(" ");
+  let JadenCased = arr.map(item => item.charAt(0).toUpperCase() + item.substr(1).toLowerCase());
+  return JadenCased.join(' ');
+  //...
+};```
+
+## Languages
+* **Russian** - native
+* **English** - fluent
+* **Turkish** - beginner
